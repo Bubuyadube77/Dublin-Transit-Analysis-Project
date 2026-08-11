@@ -1,0 +1,36 @@
+agency_id,agency_name,agency_url,agency_timezone
+03C,Go-Ahead Ireland,https://www.goaheadireland.ie/,Europe/London
+060,Sillan Tours,https://www.transportforireland.ie,Europe/London
+1,Bus Átha Cliath – Dublin Bus,https://www.dublinbus.ie/,Europe/London
+10000,LUAS,https://luas.ie,Europe/London
+1049,Ashbourne Connect,https://www.ashbourneconnect.ie,Europe/London
+1131,Flight Link Limited,https://www.flightlink.ie,Europe/London
+1135,Joe Moroney Coach Hire Ltd,https://www.transportforireland.ie,Europe/London
+1178,Dublin Express,https://www.dublinexpress.ie/,Europe/London
+1179,Nolan Coaches,https://www.nolancoaches.ie/,Europe/London
+1181,TU Dublin Blanchardstown,https://www.tudublin.ie/explore/our-campuses/blanchardstown/transportparking/,Europe/London
+1211,McCaffrey Coaches,http://www.mccaffreycoaches.com/,Europe/London
+135,Swords Express,https://www.swordsexpress.com/,Europe/London
+2,Bus Éireann,https://buseireann.ie,Europe/London
+240,Kearns Transport,https://kearnstransport.com/,Europe/London
+290,St. Kevin's Bus Service,http://www.glendaloughbus.com/,Europe/London
+293,JJ Kavanagh,https://jjkavanagh.ie/#,Europe/London
+3,Go-Ahead Ireland,https://www.goaheadireland.ie/,Europe/London
+429,Slevins Coaches,http://slevinscoaches.com/,Europe/London
+526,Citylink,https://www.citylink.ie/,Europe/London
+573,Matthews Coach Hire,https://www.matthews.ie/,Europe/London
+587,Wexford Bus,https://www.wexfordbus.com/,Europe/London
+609,John McGinley Coach Travel,http://www.johnmcginley.com/,Europe/London
+663,Aircoach,https://www.aircoach.ie/,Europe/London
+685,Streamline Coaches,https://www.streamlinecoaches.ie/,Europe/London
+690,McConnon Travel,http://www.mcconnonsbuses.com/,Europe/London
+707,BIFE Bus,http://www.goreycoachandbus.com/,Europe/London
+866,Collins Coaches,https://collinscoaches.ie/,Europe/London
+870,Dublin Coach,https://www.dublincoach.ie/,Europe/London
+999,Express Bus,https://expressbus.ie/,Europe/London
+Carolan,Balbriggan Express,http://www.carolancoachhire.ie/,Europe/London
+IR,Iarnród Éireann / Irish Rail,https://www.irishrail.ie/en-ie/,Europe/London
+LLCWKK,TFI Local Link Carlow Kilkenny Wicklow,https://www.locallinkckw.ie/,Europe/London
+LLKE,TFI Local Link Kildare South Dublin,https://locallinkkildaresouthdublin.ie/,Europe/London
+LLLMF,TFI Local Link Louth Meath Fingal,https://www.locallinklmf.ie/,Europe/London
+NTLK,"Nitelink, Dublin Bus",https://www.dublinbus.ie/,Europe/London

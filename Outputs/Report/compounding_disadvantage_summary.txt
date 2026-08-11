@@ -1,0 +1,47 @@
+======================================================================
+COMPOUNDING DISADVANTAGE ANALYSIS
+(Employment + Healthcare + Education transit desert overlap)
+======================================================================
+
+HOSPITAL deserts: 743 of 4926 classifiable Small Areas (15.1%)
+
+SCHOOL deserts: 923 of 4926 classifiable Small Areas (18.7%)
+
+UNIVERSITY deserts: 620 of 4926 classifiable Small Areas (12.6%)
+
+======================================================================
+OVERLAP: Small Areas classified as Transit Desert across MULTIPLE categories
+======================================================================
+
+Distribution of how many categories each Small Area is a desert for (0-4):
+n_desert_categories
+0    3352
+1     632
+2     451
+3     358
+4     133
+
+Small Areas that are deserts in 3+ categories (severe compounding disadvantage): 491
+
+Top compounding-disadvantage areas:
+  SA_PUB2022               ED_ENGLISH         COUNTY_ENGLISH  n_desert_categories
+268072013/06                 GRANGE B            DUBLIN CITY                    4
+   267044008      CHURCHTOWN-NUTGROVE DUN LAOGHAIRE/RATHDOWN                    4
+   267083009              EDMONDSTOWN           SOUTH DUBLIN                    4
+267140055/02        TALLAGHT-JOBSTOWN           SOUTH DUBLIN                    4
+   267119010                  SAGGART           SOUTH DUBLIN                    4
+   267126003  STILLORGAN-LEOPARDSTOWN DUN LAOGHAIRE/RATHDOWN                    4
+   267051005     CLONDALKIN-MOORFIELD           SOUTH DUBLIN                    4
+   267121006     SHANKILL-RATHSALLAGH DUN LAOGHAIRE/RATHDOWN                    4
+   267122007      SHANKILL-SHANGANAGH DUN LAOGHAIRE/RATHDOWN                    4
+   267080022        DUNDRUM-SANDYFORD DUN LAOGHAIRE/RATHDOWN                    4
+   267049004      CLONDALKIN-DUNAWLEY           SOUTH DUBLIN                    4
+267138001/04     TALLAGHT-FETTERCAIRN           SOUTH DUBLIN                    4
+   267120013     SHANKILL-RATHMICHAEL DUN LAOGHAIRE/RATHDOWN                    4
+267111002/01        PORTMARNOCK SOUTH                 FINGAL                    4
+267069001/02 DUN LAOGHAIRE-GLENAGEARY DUN LAOGHAIRE/RATHDOWN                    4
+   267097007           KILLINEY SOUTH DUN LAOGHAIRE/RATHDOWN                    4
+268092008/01                KIMMAGE C            DUBLIN CITY                    4
+   267111001        PORTMARNOCK SOUTH                 FINGAL                    4
+   267002015         BALBRIGGAN RURAL                 FINGAL                    4
+   267131009          SWORDS-GLASMORE                 FINGAL                    4

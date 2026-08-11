@@ -1,0 +1,48 @@
+======================================================================
+DUBLIN TRANSIT DESERT ANALYSIS -- EQUITY STATISTICS SUMMARY
+======================================================================
+
+[1] CORRELATION: Desert Severity Index vs Pobal Deprivation Score
+    (n = 4926 Small Areas)
+    Pearson r  = -0.1903  (p = 2.125e-41)
+    Spearman rho = -0.1632  (p = 9.588e-31)
+    NOTE: deprivation score is coded so HIGHER = more affluent,
+    so a NEGATIVE correlation means deserts skew toward more
+    deprived areas -- interpret sign carefully in the writeup.
+
+[2] CHI-SQUARE TEST: Desert status vs Deprivation category
+
+ed_deprivation_category  Affluent  Disadvantaged  Marginally Above Average  Marginally Below Average  Very Disadvantaged
+is_desert                                                                                                               
+False                         891            254                      2134                       751                  42
+True                          139            149                       296                       250                  20
+
+    Chi-square = 214.4881, p = 2.877e-45, dof = 4
+    -> Statistically significant relationship (p < 0.05):
+       desert status is NOT independent of deprivation category.
+
+[3] ELECTORAL DIVISION (ED) LEVEL ROLLUP
+    (for direct comparison against Ahern et al. 2016, which worked at ED level)
+    Saved ed_level_rollup.csv (322 EDs)
+
+    Top 10 EDs by % of Small Areas classified as Transit Desert:
+      ED_ENGLISH COUNTY_ENGLISH  n_small_areas  n_deserts  pct_desert     deprivation_category
+    PRIORSWOOD C    DUBLIN CITY             16         16       100.0            Disadvantaged
+    PRIORSWOOD D    DUBLIN CITY              9          9       100.0            Disadvantaged
+    PRIORSWOOD B    DUBLIN CITY              7          7       100.0       Very Disadvantaged
+       KILMORE C    DUBLIN CITY              4          4       100.0            Disadvantaged
+       KIMMAGE B    DUBLIN CITY             14         14       100.0 Marginally Below Average
+       KIMMAGE A    DUBLIN CITY              7          7       100.0 Marginally Below Average
+       KILMORE B    DUBLIN CITY             11         11       100.0            Disadvantaged
+       KIMMAGE D    DUBLIN CITY             10         10       100.0 Marginally Above Average
+       CRUMLIN E    DUBLIN CITY             10         10       100.0 Marginally Below Average
+CHERRY ORCHARD A    DUBLIN CITY              5          5       100.0            Disadvantaged
+
+[4] PRIORITY ZONES (top 30 by desert severity index)
+    Saved priority_zones_top30.csv
+
+[5] HEADLINE NUMBERS
+    Total classifiable Small Areas: 4926
+    Transit Deserts identified: 854 (17.3%)
+    Total population (classifiable Small Areas): 1,412,590
+    Population living in Transit Deserts: 233,825 (16.6%)

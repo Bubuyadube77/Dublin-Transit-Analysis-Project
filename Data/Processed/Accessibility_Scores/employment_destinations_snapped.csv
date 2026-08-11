@@ -1,0 +1,7 @@
+name,lat,lon,description,walk_node_id,snap_distance_m
+Dublin City Centre (CBD),53.3498,-6.2603,O'Connell St / core retail & office district,9943954450,0.5576639721994096
+IFSC / Docklands,53.3478,-6.2438,"International Financial Services Centre, major office employment",8730181546,2.364672989758649
+Sandyford Business District,53.2635,-6.2115,Major south Dublin tech/office cluster,12718971521,5.838176801463237
+Dublin Airport,53.4213,-6.2701,"Airport employment zone (aviation, logistics, retail)",2767497710,215.61366663451858
+Blanchardstown,53.3865,-6.3809,West Dublin retail/commercial hub,12761835402,6.15449071996513
+Tallaght,53.2859,-6.3672,South-west Dublin town centre / employment hub,6289128845,18.185651563392682
